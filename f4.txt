@@ -1,1 +1,2 @@
 fourth file
+editing fourth file after merging
